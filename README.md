@@ -1,9 +1,10 @@
 <pre>
   export const aboutMe = {
-    fName: 'Stepan',
-    lName: 'Rudiak',
+    fName: "Stepan",
+    lName: "Rudiak",
+    email: "stepan.rudiak95@gmail.com",
     profession: 'Front-end Developer',
-    languages: ['Ukrainian', 'English', 'Polish', 'Russian'],
+    languages: ['English', 'Ukrainian', 'Polish', 'Russian'],
     canUse: ['JS', 'TS', 'React', 'HTML', 'CSS', 'Tailwind CSS', 'Styled-components', 
         'Redux', 'Redux Toolkit', 'git', 'React Hook Form', 'zod', 'TanStack Query', 'Storybook', 'Webpack'],
   }
@@ -37,9 +38,9 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 🤝 Connect with me
-<a target="_blank" href='https://www.facebook.com/stepan.rudiak.58'>
+<a href='https://www.facebook.com/stepan.rudiak.58' target="_blank" rel="noopener noreferrer">
   <img src='https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white' alt='facebook Badge'>
 </a>
-<a target="_blank" href='https://www.linkedin.com/in/stepan-rudiak/'>
+<a href='https://www.linkedin.com/in/stepan-rudiak/' target="_blank" rel="noopener noreferrer">
   <img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white' alt='LinkedIn Badge'>
 </a>
