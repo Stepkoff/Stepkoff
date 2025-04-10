@@ -44,3 +44,12 @@
 <a href='https://www.linkedin.com/in/stepan-rudiak/' target="_blank" rel="noopener noreferrer">
   <img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white' alt='LinkedIn Badge'>
 </a>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Stepkoff&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Stepkoff&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
