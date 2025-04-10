@@ -1,7 +1,16 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hi 👋! My name is Stepan and I'm a Front-end Developer
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+<pre>
+  export const aboutMe = {
+    fName: 'Stepan',
+    lName: 'Rudiak',
+    profession: 'Front-end Developer',
+    languages: ['Ukrainian', 'English', 'Polish', 'Russian'],
+    canUse: ['JS', 'TS', 'React', 'HTML', 'CSS', 'Tailwind CSS', 'Styled-components', 
+        'Redux', 'Redux Toolkit', 'git', 'React Hook Form', 'zod', 'TanStack Query', 'Storybook', 'Webpack'],
+  }
+</pre>
 
 
 # 💻 Tech Stack:
